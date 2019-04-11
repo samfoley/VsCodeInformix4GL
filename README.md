@@ -1,3 +1,6 @@
+# Fork work in progress
+Aim to provide fglcomp --vimcomplete to vscode
+
 # Sintaxis Informix 4GL
 
 Esta es la Sintaxis para usar Informix 4GL en Vs Code.
